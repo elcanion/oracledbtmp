@@ -1,0 +1,119 @@
+    1. O que PL/SQL representa? (CERTO)
+    a) Programming Language/Structured Query Language
+    X) Procedural Language/Structured Query Language
+    c) Primary Language/Structured Query Language
+    d) Programmatic Language/Structured Query Language
+
+    2. Qual é a função da cláusula EXCEPTION em PL/SQL? (CERTO)
+    a) Definir uma variável
+    X) Manipular exceções
+    c) Iniciar uma transação
+    d) Executar uma consulta
+
+    3. Qual é a diferença entre um cursor implícito e um cursor explícito em PL/SQL? (CERTO)
+    a) Um cursor implícito é definido pelo usuário, enquanto um cursor explícito é criado automaticamente pelo sistema.
+    X) Um cursor implícito é criado automaticamente pelo sistema, enquanto um cursor explícito é definido pelo usuário.
+    c) Ambos são definidos pelo usuário.
+    d) Ambos são criados automaticamente pelo sistema.
+
+    4. Qual é a função do operador := em PL/SQL? (CERTO)
+    a) Igualdade
+    X) Atribuição
+    c) Comparação
+    d) Concatenação
+
+    5. O que é um bloco anônimo em PL/SQL? (CERTO)
+    X) Um bloco de código sem nome.
+    b) Um bloco de código sem instruções.
+    c) Um bloco de código sem exceções.
+    d) Um bloco de código sem variáveis.
+
+    6. Qual é a maneira correta de definir um procedimento em PL/SQL? (CERTO)
+    a) DECLARE procedure_name
+    b) CREATE PROCEDURE procedure_name
+    c) FUNCTION procedure_name
+    X) PROCEDURE procedure_name
+
+    7. Qual comando é usado para abrir um cursor em PL/SQL? (CERTO)
+    X) OPEN
+    b) BEGIN
+    c) DECLARE
+    d) FETCH
+
+    8. O que é uma função agregada em PL/SQL? (CERTO)
+    a) Uma função que manipula exceções
+    X) Uma função que retorna um único valor com base em um conjunto de valores de entrada
+    c) Uma função que concatena strings
+    d) Uma função que itera sobre uma lista de valores
+
+    9. Em PL/SQL, como você chama um procedimento dentro de outro procedimento? (CERTO)
+    a) EXECUTE procedure_name
+    b) CALL procedure_name
+    c) INVOKE procedure_name
+    X) Simplesmente usando o nome do procedimento
+
+    10. Qual comando é usado para realizar um rollback em PL/SQL? (CERTO)
+    X) ROLLBACK
+    b) COMMIT
+    c) SAVEPOINT
+    d) UNDO
+
+    11. O que é um pacote em PL/SQL? (CERTO)
+    a) Um agrupamento de variáveis relacionadas
+    X) Um agrupamento de procedimentos e funções
+    c) Um bloco de código PL/SQL
+    d) Um tipo de exceção
+
+    12. Qual é a função da cláusula RETURN em uma função em PL/SQL? (CERTO)
+    X) Retornar um valor de uma função
+    b) Iniciar uma transação
+    c) Manipular exceções
+    d) Definir uma variável
+
+    13. Em PL/SQL, qual é a maneira correta de definir um cursor FOR loop? (CERTO)
+    X) FOR i IN cursor_name LOOP
+    b) FOR i FROM cursor_name LOOP
+    c) FOR cursor_name IN LOOP
+    d) FOR cursor_name INTO LOOP
+
+    14. Qual é o operador usado para testar se um valor é nulo em PL/SQL? (CERTO)
+    a) = NULL
+    X) IS NULL
+    c) == NULL
+    d) NOT NULL
+
+    15. O que é uma trigger de banco de dados em PL/SQL? (CERTO)
+    a) Um tipo de exceção
+    X) Um procedimento que é automaticamente executado em resposta a uma operação em uma tabela
+    c) Um tipo de cursor
+    d) Um tipo de função agregada
+
+    16. Em PL/SQL, qual comando é usado para exibir uma mensagem de erro personalizada? (CERTO)
+    a) PRINT
+    b) MESSAGE
+    c) DBMS_OUTPUT.PUT_LINE
+    X) RAISE_APPLICATION_ERROR
+
+    17. Qual é o operador usado para concatenar strings em PL/SQL? (CERTO)
+    X) ||
+    b) +
+    c) CONCAT
+    d) JOIN
+
+    18. O que é uma transação em PL/SQL? (CERTO)
+    a) Uma declaração SQL
+    b) Um tipo de exceção
+    X) Uma ação única ou um conjunto de ações que podem ser tratadas como uma unidade atômica de trabalho
+    d) Uma função matemática
+
+    19. Em PL/SQL, qual é a função usada para converter uma string em maiúsculas? (ERRADO, letra a)
+    a) UPPER
+    X) UPPERCASE
+    c) CONVERT
+    d) TO_UPPER
+
+    20. Qual é a função da cláusula INTO em PL/SQL? (CERTO)
+    a) Uma cláusula usada para definir uma variável
+    b) Uma cláusula usada para definir uma exceção
+    X) Uma cláusula usada para armazenar resultados de uma consulta em variáveis
+    d) Uma cláusula usada para definir um cursor
