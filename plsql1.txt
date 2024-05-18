@@ -1,0 +1,119 @@
+    1. O que PL/SQL representa?
+    a) Programming Language/Structured Query Language
+    b) Programming Logic/Structured Query Language
+    c) Procedural Language/Structured Query Language
+    d) Process Language/Structured Query Language
+
+    2. Qual comando é usado para declarar uma variável em PL/SQL?
+    a) VAR
+    b) DECLARE
+    c) VARIABLE
+    d) LET
+
+    3. Qual é a estrutura básica de um bloco PL/SQL?
+    a) BEGIN...END;
+    b) START...STOP;
+    c) OPEN...CLOSE;
+    d) INIT...FINAL;
+
+    4. Como você pode manipular exceções em PL/SQL?
+    a) Usando a cláusula TRY...CATCH
+    b) Usando a cláusula IF...ELSE
+    c) Usando a cláusula EXCEPTION
+    d) Usando a cláusula RAISE
+
+    5. Qual comando é usado para exibir uma mensagem na tela em PL/SQL?
+    a) PRINT
+    b) MESSAGE
+    c) DBMS_OUTPUT.PUT_LINE
+    d) SHOW
+
+    6. Em PL/SQL, qual comando é usado para realizar uma iteração sobre um conjunto de registros?
+    a) FOR loop
+    b) WHILE loop
+    c) DO loop
+    d) REPEAT loop
+
+    7. Qual é a maneira correta de definir um cursor explícito em PL/SQL?
+    a) DECLARE cursor_name CURSOR IS SELECT * FROM table_name;
+    b) OPEN cursor_name FOR SELECT * FROM table_name;
+    c) CURSOR cursor_name IS SELECT * FROM table_name;
+    d) CREATE CURSOR cursor_name AS SELECT * FROM table_name;
+
+    8. O que é um trigger em PL/SQL?
+    a) Um tipo de cursor
+    b) Um tipo de exceção
+    c) Um tipo de procedimento armazenado
+    d) Um tipo de procedimento que é automaticamente executado em resposta a um evento específico em uma tabela ou exibição
+
+    9. Qual é a função de uma função em PL/SQL?
+    a) Realizar operações matemáticas
+    b) Retornar um único valor
+    c) Manipular exceções
+    d) Iterar sobre uma lista de valores
+
+    10. Qual é a maneira correta de declarar uma função em PL/SQL?
+    a) EXECUTE function_name;
+    b) CALL function_name;
+    c) SELECT function_name();
+    d) FUNCTION function_name;
+
+    11. Em PL/SQL, qual é a diferença entre uma função e um procedimento?
+    a) Uma função retorna um valor, enquanto um procedimento não retorna nada.
+    b) Um procedimento retorna um valor, enquanto uma função não retorna nada.
+    c) Uma função e um procedimento são a mesma coisa.
+    d) Um procedimento é usado para operações matemáticas, enquanto uma função é usada para manipular strings.
+
+    12. O que é uma transação em PL/SQL?
+    a) Uma ação única ou um conjunto de ações que podem ser tratadas como uma unidade atômica de trabalho.
+    b) Uma declaração SQL.
+    c) Uma exceção não tratada.
+    d) Uma função matemática.
+
+    13. Em PL/SQL, qual comando é usado para commitar uma transação?
+    a) COMMIT;
+    b) SAVE;
+    c) END TRANSACTION;
+    d) FINISH TRANSACTION;
+
+    14. O que é um pacote em PL/SQL?
+    a) Um agrupamento de variáveis relacionadas.
+    b) Um conjunto de procedimentos e funções.
+    c) Um bloco de código PL/SQL.
+    d) Um tipo de exceção.
+
+    15. Em PL/SQL, qual é o tipo de dado usado para armazenar valores booleanos?
+    a) INTEGER
+    b) BOOLEAN
+    c) CHAR
+    d) VARCHAR2
+
+    16. Qual é o operador de igualdade em PL/SQL?
+    a) ==
+    b) =
+    c) EQ
+    d) IS
+
+    17. Qual é a maneira correta de concatenar strings em PL/SQL?
+    a) a || b
+    b) a + b
+    c) CONCAT(a, b)
+    d) JOIN(a, b)
+
+    18. O que é a cláusula INTO em PL/SQL?
+    a) Uma cláusula usada para definir uma variável.
+    b) Uma cláusula usada para definir uma exceção.
+    c) Uma cláusula usada para armazenar resultados de uma consulta em variáveis.
+    d) Uma cláusula usada para definir um cursor.
+
+    19. Qual é o operador usado para testar se um valor está dentro de um intervalo em PL/SQL?
+    a) IN
+    b) BETWEEN
+    c) WITHIN
+    d) INSIDE
+
+    20. Em PL/SQL, qual é a função usada para obter o comprimento de uma string?
+    a) LENGTH
+    b) LEN
+    c) SIZE
+    d) CHAR_LENGTH
